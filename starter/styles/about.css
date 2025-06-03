@@ -1,12 +1,6 @@
-/* TODO: Manually optimize CSS styling. */
-
-
-/* Remove unused and unnecessary styling and selectors */
-
-
 /* About page Styling */
 
-body main div .aboutContainer {
+.aboutContainer {
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;

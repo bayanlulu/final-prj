@@ -9,3 +9,6 @@ gulp.task("testm", shell.task(["npx mocha"]));
 
 // Run Cypress tests
 gulp.task("testc", shell.task(["npx cypress run"]));
+
+// i haved put another way to run the tests in scripts in package.json and in gulpfile.js
+// Run all tests
